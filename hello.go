@@ -1,5 +1,5 @@
 package hello
 
 func Hello() string {
-    return "Hello v1.5.0"
+    return "Hello v4.0.0+incompatible"
 }
