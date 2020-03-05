@@ -1,3 +1,3 @@
-module github.com/AsafZalcman-jfrog/versionsTest
+module github.com/jfrog-qa/versionsTest
 
 go 1.13
